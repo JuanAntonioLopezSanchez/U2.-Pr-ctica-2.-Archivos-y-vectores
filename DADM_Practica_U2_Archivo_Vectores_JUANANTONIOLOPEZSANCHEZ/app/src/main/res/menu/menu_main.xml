@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="mx.edu.iitepic.dadm_practica_u2_archivo_vectores_juanantoniolopezsanchez.MainActivity">
+    <item
+        android:id="@+id/cargar"
+        android:orderInCategory="100"
+        android:title="Cargar"
+        app:showAsAction="never" />
+</menu>
